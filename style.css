@@ -1,0 +1,31 @@
+.links{
+    color: greenyellow;
+    font-size: 40px;
+}
+
+.main-heading{
+    color: red;
+}
+
+.images{
+ width: 500px;
+ height: auto;
+
+}
+
+.sub-heading{
+    font-size: 30px;
+    color: green;
+}
+
+.para{
+    text-align: justify;
+    color: lightseagreen;
+}
+
+.ing{
+    text-align: justify;
+    color: lime;
+    background-color: black;
+
+}
